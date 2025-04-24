@@ -1,1 +1,1 @@
-outlovecn/portainer-cn:latest
+ghcr.io/wg-easy/wg-easy:14
