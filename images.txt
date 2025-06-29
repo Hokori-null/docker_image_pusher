@@ -2,19 +2,4 @@ ghcr.io/wg-easy/wg-easy:14
 ghcr.io/outlovecn/portainer-cn:main
 --platform=linux/arm64 ghcr.io/wg-easy/wg-easy:14
 --platform=linux/arm64 ghcr.io/outlovecn/portainer-cn:main
-xhofe/alist:v3.44.0
-xhofe/alist:v3.44.0-aria2
-xhofe/alist:v3.44.0-ffmpeg
-xhofe/alist:v3.44.0-aio
---platform=linux/arm64 xhofe/alist:v3.44.0-aio
---platform=linux/arm64 xhofe/alist:v3.44.0-ffmpeg
---platform=linux/arm64 xhofe/alist:v3.44.0-aria2
---platform=linux/arm64 xhofe/alist:v3.44.0
-xhofe/alist:v3.45.0
-xhofe/alist:v3.45.0-aria2
-xhofe/alist:v3.45.0-ffmpeg
-xhofe/alist:v3.45.0-aio
---platform=linux/arm64 xhofe/alist:v3.45.0-aio
---platform=linux/arm64 xhofe/alist:v3.45.0-ffmpeg
---platform=linux/arm64 xhofe/alist:v3.45.0-aria2
---platform=linux/arm64 xhofe/alist:v3.45.0
+
