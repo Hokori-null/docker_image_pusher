@@ -3,3 +3,4 @@ ghcr.io/outlovecn/portainer-cn:main
 mzz2017/v2raya:latest
 --platform=linux/arm64 mzz2017/v2raya:latest
 ghcr.io/wg-easy/wg-easy:latest
+ghcr.io/wg-easy/wg-easy:15
