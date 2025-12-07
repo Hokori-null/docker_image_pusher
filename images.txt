@@ -4,3 +4,4 @@ ghcr.io/wg-easy/wg-easy:14
 dailyhot-api
 ghcr.io/senshinya/moontv:latest
 redis
+localai/localai:master-aio-gpu-nvidia-cuda-12
