@@ -1,4 +1,2 @@
-ghcr.io/senshinya/moontv:latest
-localai/localai:master-aio-gpu-nvidia-cuda-12
 ollama/ollama
 --platform=linux/arm64 ollama/ollama
