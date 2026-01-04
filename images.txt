@@ -1,3 +1,2 @@
 ollama/ollama
 --platform=linux/arm64 ollama/ollama
-ghcr.io/open-webui/open-webui
