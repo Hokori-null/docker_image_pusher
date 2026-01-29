@@ -3,4 +3,3 @@ ollama/ollama
 nullaykm/exo
 ghcr.io/open-webui/open-webui:main
 ghcr.io/open-webui/open-webui:0.7.2
-library/antigravity-manager:latest
