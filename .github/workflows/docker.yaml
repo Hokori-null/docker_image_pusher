@@ -163,13 +163,14 @@ jobs:
       run: |
         # 判断运行状态
         if [ "${{ job.status }}" = "success" ]; then
-          title="✅ Docker 镜像同步成功"
+          title="Docker 镜像同步成功"
           content="GitHub Actions 工作流已成功完成！"
         else
-          title="❌ Docker 镜像同步失败"
+          title="Docker 镜像同步失败"
           content="GitHub Actions 工作流运行失败，请检查日志。"
         fi
         
-        # 发送 ServerChan 通知
-        curl -s "${SERVERCHAN_API}?title=${title}&desp=${content}"
-  
+        # 使用 curl --data-urlencode 自动编码中文和特殊字符
+        curl -s "https://sctapi.ftqq.com/SCT161754TthXVjjWI4bmRqEV30LBQ3CMW.send" \
+          --data-urlencode "title=${title}" \
+          --data-urlencode "desp=${content}"
