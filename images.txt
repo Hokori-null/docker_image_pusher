@@ -2,4 +2,4 @@ ollama/ollama
 --platform=linux/arm64 ollama/ollama
 nullaykm/exo
 ghcr.io/open-webui/open-webui:main
-ghcr.io/open-webui/open-webui:0.7.2
+ghcr.io/open-webui/open-webui:v0.8.12
