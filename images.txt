@@ -1,4 +1,4 @@
 ghcr.io/open-webui/open-webui:main
-ghcr.io/open-webui/open-webui:v0.8.12
+ghcr.io/deeix-ai/deeix-chat
 unsloth/unsloth
 yanwk/comfyui-boot:cu130-slim-v2
