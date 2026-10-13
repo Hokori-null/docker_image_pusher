@@ -2,3 +2,4 @@ ghcr.io/open-webui/open-webui:main
 ghcr.io/deeix-ai/deeix-chat
 unsloth/unsloth
 yanwk/comfyui-boot:cu130-slim-v2
+1panel/java:17
