@@ -1,5 +1,2 @@
 ghcr.io/open-webui/open-webui:main
-ghcr.io/deeix-ai/deeix-chat
-unsloth/unsloth
-yanwk/comfyui-boot:cu130-slim-v2
-1panel/java:17
+ghcr.io/niko1221/strata:0.2.3-cuda12
