@@ -1,3 +1,2 @@
 ghcr.io/open-webui/open-webui:main
 ghcr.io/niko1221/strata:0.2.3-cuda12
-ghcr.io/niko1221/strata:0.2.5-cuda12
